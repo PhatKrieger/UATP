@@ -1,0 +1,2 @@
+C:\Users\thege\OneDrive\Documents\UATP\FeeCalculator\obj\Debug\FeeCalculator.csproj.AssemblyReference.cache
+C:\Users\thege\OneDrive\Documents\UATP\FeeCalculator\obj\Debug\FeeCalculator.csproj.CoreCompileInputs.cache

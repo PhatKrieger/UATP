@@ -1,0 +1,33 @@
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\bin\Debug\net8.0\appsettings.json
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\bin\Debug\net8.0\Card Management.exe
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\bin\Debug\net8.0\Card Management.deps.json
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\bin\Debug\net8.0\Card Management.runtimeconfig.json
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\bin\Debug\net8.0\Card Management.dll
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\bin\Debug\net8.0\Card Management.pdb
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\obj\Debug\net8.0\Card Management.csproj.AssemblyReference.cache
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\obj\Debug\net8.0\Card Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\obj\Debug\net8.0\Card Management.AssemblyInfoInputs.cache
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\obj\Debug\net8.0\Card Management.AssemblyInfo.cs
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\obj\Debug\net8.0\Card Management.csproj.CoreCompileInputs.cache
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\obj\Debug\net8.0\Card Management.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\obj\Debug\net8.0\Card Management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\obj\Debug\net8.0\staticwebassets\msbuild.Card Management.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\obj\Debug\net8.0\staticwebassets\msbuild.build.Card Management.props
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Card Management.props
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Card Management.props
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\obj\Debug\net8.0\scopedcss\bundle\Card Management.styles.css
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\obj\Debug\net8.0\Card Management.csproj.CopyComplete
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\obj\Debug\net8.0\Card Management.dll
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\obj\Debug\net8.0\refint\Card Management.dll
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\obj\Debug\net8.0\Card Management.pdb
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\obj\Debug\net8.0\Card Management.genruntimeconfig.cache
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\obj\Debug\net8.0\ref\Card Management.dll
+C:\Users\thege\OneDrive\Documents\UATP\Card Management\bin\Debug\net8.0\web.config
